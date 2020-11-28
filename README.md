@@ -1,4 +1,11 @@
 # To-do-App
-A simple To-do App for CSS and JavaScript skills testing.
+A simple To-do App to boost your CSS and JavaScript skills.
 
-![Screenshot](screenshot.png)
+![Screenshot](img/screenshot.png)
+
+# Features
+  - Add to-do.
+  - Make to-do as complete.
+  - Delete to-do.
+
+![Screenshot](img/screenshot1.png)

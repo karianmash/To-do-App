@@ -31,7 +31,7 @@ body {
 .title {
   width: 100%;
   height: 30%;
-  background-image: url(food.jpg);
+  background-image: url(img/food.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
