@@ -8,4 +8,3 @@ A simple To-do App to boost your CSS and JavaScript skills.
   - Make to-do as complete.
   - Delete to-do.
 
-![Screenshot-two](screenshot-two.png)
