@@ -3,6 +3,13 @@ const taskField = document.querySelector(".taskInput");
 const list = document.querySelector(".list");
 
 addBtn.addEventListener("click", addTask);
+window.addEventListener("keydown", (e) => {
+  if(e.key === 'Enter') {
+    addTask();
+  } else {
+    return
+  }
+});
 
 function addTask() {
   if (taskField.value.length === 0) {
