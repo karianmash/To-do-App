@@ -1,5 +1,5 @@
 # To-do-App
-A simple To-do App to boost your CSS and JavaScript skills.
+A simple To-do App in vanilla JavaScript.
 
 ![Screenshot](img/screenshot.png)
 
